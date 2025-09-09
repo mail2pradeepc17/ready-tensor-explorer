@@ -1,0 +1,9 @@
+fastapi==0.115.0    # Backend API framework
+uvicorn==0.30.6     # ASGI server to run FastAPI
+streamlit==1.38.0   # Simple frontend UI
+chromadb==0.5.5     # Vector database for semantic search
+openai==1.42.0      # OpenAI API client for embeddings + LLM
+unstructured==0.15.7    # Document parsing (PDF, HTML, DOCX, etc.)
+pydantic==2.9.2     # Data validation and models
+python-dotenv==1.0.1
+requests==2.32.3
